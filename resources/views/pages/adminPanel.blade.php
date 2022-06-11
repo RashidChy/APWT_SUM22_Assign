@@ -2,7 +2,9 @@
 
       <br>
       <hr>
-      <h1>Admin panel</h1>
+      <h1>Admin Panel</h1>
+      <hr>
+      <br>
       <hr>
 
 
